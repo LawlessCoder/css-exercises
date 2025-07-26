@@ -1,4 +1,18 @@
-.my-class, .my-class-two {
+.odd {
     background-color: rgb(240, 181, 245);
     font-family: "Verdana", "DejaVu Sans", sans-serif
+}
+
+.change-font-size {
+    font-size: 24px;
+}
+
+#two {
+    color: rgb(0, 127, 255);
+    font-size: 36px;
+}
+
+#four {
+    background-color: hsl(108, 81%, 82%);
+    font-weight: bold;
 }
